@@ -4,7 +4,7 @@
 
 ## Context
 
-La realització d'aquesta pràctica s'ha dut a terme sota el context de l'assignatura _Tipologia i cicle de vida de les dades_ i encarat especialment al temari sobre tècniques de _Web Scraping_. 
+La realització d'aquesta pràctica s'ha dut a terme en el context de l'assignatura _Tipologia i cicle de vida de les dades_ del Màster de _Data Science_ de la _Universitat Oberta de Catalunya (UOC)_ i està encarada especialment al temari sobre tècniques de _Web Scraping_. 
 
   
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
