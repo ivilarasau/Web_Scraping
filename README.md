@@ -9,9 +9,11 @@ La realització d'aquesta pràctica s'ha dut a terme sota el context de l'assign
   
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
 
-* **WebScraping01.py**: 
-* **WebScraping_ElPais.py**:  [El País](http://www.elpais.com/)
-* **WebScraping.py**: 
+* **WebScraping.ipynb**:
+* **WebScraping_01.ipynb**: 
+* **WebScraping_ElPais.ipynb**:  [El País](http://www.elpais.com/)
+* **WebScraping_ElPais_01.ipynb**
+* **ElPais_Analysis.ipynb**
 
 ## Bibliografia:
 
