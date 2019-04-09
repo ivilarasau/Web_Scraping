@@ -5,8 +5,11 @@
 ## Context
 
 La realització d'aquesta pràctica s'ha dut a terme en el context de l'assignatura _Tipologia i cicle de vida de les dades_ del Màster de _Data Science_ de la _Universitat Oberta de Catalunya (UOC)_ i està encarada especialment al temari sobre tècniques de _Web Scraping_. 
+En concret en aquesta pràctica ens hem centrat en les dues primeres fases del cicle de les dades, la captura i l'emmagatzematge.
 
-  
+## Descripció
+
+
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
 
 * **WebScraping.ipynb**:
