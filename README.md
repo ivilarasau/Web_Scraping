@@ -1,4 +1,4 @@
-# *Títol*
+# Títol
 
 **Aleix Martínez** i **Ignasi Vilarasau**
 
