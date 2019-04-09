@@ -1,5 +1,5 @@
 # Pràctica 1: Web Scraping
-*Títol*
+# Títol 
 
 **Aleix Martínez** i **Ignasi Vilarasau**
 
