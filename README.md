@@ -1,4 +1,5 @@
-# Pràctica 1: Web Scraping - *Títol*
+# Pràctica 1: Web Scraping
+*Títol*
 
 **Aleix Martínez** i **Ignasi Vilarasau**
 
