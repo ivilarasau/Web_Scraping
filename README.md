@@ -1,4 +1,4 @@
-# Títol
+# Respositori notícies
 
 **Aleix Martínez** i **Ignasi Vilarasau**
 
