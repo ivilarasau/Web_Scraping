@@ -9,7 +9,7 @@ En concret en aquesta pràctica ens hem centrat en les dues primeres fases del c
 
 ## Descripció
 
-Imaginem que una marca de roba vol publicitar-se en la pàgina web d'un diari. En aquest sentit, al diari li interessaria poder disposar d'un dataset propi creat amb tot la informació relacionada amb l'històric de notícies que han anat publicat durant un període de temps en la seva pàgina web i en funció dels resultats de l'estudi de mineria de dades poder oferir una proposta de pressupost a la marca de roba interessada en publicitar-se.
+Imaginem, per exemple, que una marca de roba vol publicitar-se en la pàgina web d'un diari per intentar guanyar nous clients. En aquest sentit, al diari li interessaria poder disposar d'un dataset propi creat amb tot la informació relacionada amb l'històric de notícies que han anat publicat durant un període de temps en la seva pàgina web i en funció dels resultats de l'estudi de mineria de dades poder oferir una proposta de pressupost a la marca de roba interessada en publicitar-se.
 
 D'aquesta forma hem decidit encarar la pràctica en aquest sentit. Hem recopilat informació relacionada amb les notícies publicades en la pàgina web del diari el País ([El País](http://www.elpais.com/)) per poder crear un dataframe respositori de dades i finalment poder estudiar quines notícies acaben sent més vistes i perquè, i d'aquesta forma poder oferir propostes de pressupost més interessants a marques que volen publicitar-se en la pàgina web del diari.
 
