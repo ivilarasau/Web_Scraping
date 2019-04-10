@@ -1,4 +1,4 @@
-# Respositori notícies
+# Respositori de notícies
 
 **Aleix Martínez** i **Ignasi Vilarasau**
 
