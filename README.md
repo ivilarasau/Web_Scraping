@@ -9,12 +9,13 @@ En concret en aquesta pràctica ens hem centrat en les dues primeres fases del c
 
 ## Descripció
 
+A partir de la pàgina web del diari el País ([El País](http://www.elpais.com/) 
 
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
 
 * **WebScraping.ipynb**:
 * **WebScraping_01.ipynb**: 
-* **WebScraping_ElPais.ipynb**:  [El País](http://www.elpais.com/)
+* **WebScraping_ElPais.ipynb**: 
 * **WebScraping_ElPais_01.ipynb**
 * **ElPais_Analysis.ipynb**
 
