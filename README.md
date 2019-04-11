@@ -29,7 +29,7 @@ El dataset final hem decidit que hauria d'incloure com a mínim els següents at
 * **_Subsection_:** Subsecció a la que pertany la notícia emmagatzemada.
 
 
-## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
+## Fitxers de codi utilitzats per realitzar _Web Scraping_:
 
 * **WebScraping_ElPais.ipynb:** Aquest script va ser el primer que vàrem crear i el vam utilitzar per aprendre sobre les funcions de python que serveixen per extreure informació de la pàgina web via _web scraping_ i per veure quina era la posició exacta de la pàgina web que havíem d'atacar per poder trobar els valors que necessitàvem pels atributs triats anteriorment.
 * **WebScraping_01.ipynb:** En aquest script el que vàrem fer va ser millorar l'script anterior, un cop ja vàrem localitzar tots els punts de la pàgina web on estaven emmagatzemats els valors necessaris. Per tant, el que vam fer va ser crear totes les funcions que capturen les dades necessàries per poder omplir els valors en cada un dels atributs.
