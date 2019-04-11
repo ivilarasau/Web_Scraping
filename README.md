@@ -31,7 +31,7 @@ Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents a
 
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
 
-* **WebScraping_ElPais.ipynb:** Aquest script va ser el primer que vàrem crear i el vam utilitzar per investigar una mica amb les funcions de python per extreure informació de la pàgina web via _web scraping_ i veure en quin lloc concret es trobaven els valors que necessitàvem pels atributs triats anteriorment.
+* **WebScraping_ElPais.ipynb:** Aquest script va ser el primer que vàrem crear i el vam utilitzar per aprendre sobre les funcions de python que serveixen per extreure informació de la pàgina web via _web scraping_ i per veure quina era la posició exacta de la pàgina web que havíem d'atacar per poder trobar els valors que necessitàvem pels atributs triats anteriorment.
 * **WebScraping_01.ipynb:** En aquest script el que vàrem fer va ser millorar l'script anterior, un cop ja vàrem localitzar tots els punts de la pàgina web on estaven emmagatzemats els valors necessaris. Per tant, el que vam fer va ser crear totes les funcions que capturen les dades necessàries per poder omplir els valors en cada un dels atributs.
 * **WebScraping_ElPais_01.ipynb:** En aquest script el que fem és utilitzar les funcions anteriors per poder crear un dataset amb la informació rellevant i acabar desant-lo de forma local i poder emmagatzemar la informació dia a dia.
 * **ElPais_Analysis.ipynb:** En aquest script proposem una possible via d'anàlisi per al dataset complert (que també creem en aquest script) que podria acabar amb unes conclusions interessants pel diari en qüestió.
