@@ -31,7 +31,7 @@ Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents a
 
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
 
-* **WebScraping.ipynb**:
+* **WebScraping.ipynb**: En aquest 
 * **WebScraping_01.ipynb**: 
 * **WebScraping_ElPais.ipynb**: 
 * **WebScraping_ElPais_01.ipynb**
