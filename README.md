@@ -13,8 +13,17 @@ Imaginem, per exemple, que una marca de roba vol publicitar-se en la pàgina web
 
 D'aquesta forma hem decidit encarar la pràctica en aquest sentit. Hem recopilat informació relacionada amb les notícies publicades en la pàgina web del diari el País ([El País](http://www.elpais.com/)) per poder crear un dataframe respositori de dades i finalment poder estudiar quines notícies acaben sent més vistes i perquè, i d'aquesta forma poder oferir-li al diari per a que pugui negociar amb propostes de pressupost més alt a marques que volen publicitar-se en la pàgina web del diari.
 
-El dataset triat hem decidit que hauria d'incloure els següents atributs:
-"EXPLICAR ATRIBUTS TRIATS I PER QUÈ"
+Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents atributs:
+* _Extraction Date_
+* _Publication Date_
+* _Publication Hour_
+* _Title_
+* _Author_
+* _Location_
+* _Num Comments_
+* _Photo Author_
+* _Photo Text_
+
 
 
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
