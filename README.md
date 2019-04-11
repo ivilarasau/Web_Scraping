@@ -31,13 +31,17 @@ Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents a
 
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
 
-* **WebScraping.ipynb**: En aquest 
-* **WebScraping_01.ipynb**: 
-* **WebScraping_ElPais.ipynb**: 
-* **WebScraping_ElPais_01.ipynb**
-* **ElPais_Analysis.ipynb**
+* **WebScraping_01.ipynb:** En aquest script el que fem és investigar amb la 
+* **WebScraping_ElPais.ipynb:** 
+* **WebScraping_ElPais_01.ipynb:** 
+* **ElPais_Analysis.ipynb:**
 
 ## Bibliografia:
 
 1. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
 2. Mitchel, R. (2015). _Web Scraping with Python: Collecting Data from the Modern Web_. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+3. Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). _Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining_. John Wiley & Sons
+4. Subirats, L., Calvo, M. (2018). _Web Scraping_. Editorial UOC.
+5. Masip, D. (2010). _El lenguaje Python_. Editorial UOC.
+
+
