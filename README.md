@@ -16,17 +16,17 @@ D'aquesta forma hem decidit encarar la pràctica en aquest sentit. Hem recopilat
 Per crear el dataset final el que hem fet ha estat anar guardant els arxius _.html_ de la pàgina web del diari El País i un cop guardats, els carregàvem per poder realitzar el web scraping a partir de l'arxiu en local.
 
 Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents atributs:
-* _Extraction Date_: La data de la captura de les dades de la pàgina web del diari o dels arxius _.html_ emmagatzemats.
-* _Publication Date_: La data de publicació de l'article en el diari.
-* _Publication Hour_: L'hora de publicació de l'article en el diari.
-* _Title_: Títol de l'article publicat en el diari.
-* _Author_: Autor de l'article del que hem emmagatzemat l'hora i dia de publicació, el títol.
-* _Location_: Ubicació del succés que explica la notícia de la que hem emmagatzemat l'hora i dia de publicació, el títol i l'autor.
-* _Num Comments_: Número de comentaris realitzats per usuaris registrats en la pàgina web del diari en la notícia de la que hem emmagatzemat l'hora i dia de publicació, el títol, l'autor i la ubicació.
-* _Photo Author_: Autor de la fotografia que acompanya l'article del que hem emmagatzemat l'hora i dia de publicació, el títol, l'autor, la ubicació i el número de comentaris.
-* _Photo Text_: Text del peu de foto de la fotografia que acompanya l'article del que hem emmagatzemat l'hora i dia de publicació, el títol, l'autor, la ubicació, el número de comentaris i l'autor de la fotografia esmentada.
-* _Section_: Secció a la que pertany la notícia emmagatzemada.
-* _Subsection_: Subsecció a la que pertany la notícia emmagatzemada.
+* **_Extraction Date_**: La data de la captura de les dades de la pàgina web del diari o dels arxius _.html_ emmagatzemats.
+* **_Publication Date_**: La data de publicació de l'article en el diari.
+* **_Publication Hour_**: L'hora de publicació de l'article en el diari.
+* **_Title_**: Títol de l'article publicat en el diari.
+* **_Author_**: Autor de l'article del que hem emmagatzemat l'hora i dia de publicació, el títol.
+* **_Location_**: Ubicació del succés que explica la notícia de la que hem emmagatzemat l'hora i dia de publicació, el títol i l'autor.
+* **_Num Comments_**: Número de comentaris realitzats per usuaris registrats en la pàgina web del diari en la notícia de la que hem emmagatzemat l'hora i dia de publicació, el títol, l'autor i la ubicació.
+* **_Photo Author_**: Autor de la fotografia que acompanya l'article del que hem emmagatzemat l'hora i dia de publicació, el títol, l'autor, la ubicació i el número de comentaris.
+* **_Photo Text_**: Text del peu de foto de la fotografia que acompanya l'article del que hem emmagatzemat l'hora i dia de publicació, el títol, l'autor, la ubicació, el número de comentaris i l'autor de la fotografia esmentada.
+* **_Section_**: Secció a la que pertany la notícia emmagatzemada.
+* **_Subsection_**: Subsecció a la que pertany la notícia emmagatzemada.
 
 
 ## Fitxers de codi utilitzats per la tècnica del _Web Scraping_:
