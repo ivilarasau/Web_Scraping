@@ -38,10 +38,10 @@ Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents a
 
 ## Bibliografia:
 
-1. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-2. Mitchel, R. (2015). _Web Scraping with Python: Collecting Data from the Modern Web_. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
-3. Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). _Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining_. John Wiley & Sons
-4. Subirats, L., Calvo, M. (2018). _Web Scraping_. Editorial UOC.
-5. Masip, D. (2010). _El lenguaje Python_. Editorial UOC.
+1. Lawson, R. (2015). **_Web Scraping with Python_**. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+2. Mitchel, R. (2015). **_Web Scraping with Python: Collecting Data from the Modern Web_**. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+3. Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). **_Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining_**. John Wiley & Sons
+4. Subirats, L., Calvo, M. (2018). **_Web Scraping_**. Editorial UOC.
+5. Masip, D. (2010). **_El lenguaje Python_**. Editorial UOC.
 
 
