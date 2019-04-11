@@ -15,7 +15,7 @@ D'aquesta forma hem decidit encarar la pràctica en aquest sentit. Hem recopilat
 
 Per crear el dataset el que hem fet ha estat anar desant les dades necessàries extretes de la pàgina web del diari El País mitjançant un script (_WebScraping_ElPais_01.ipynb_) que captura les dades i les guarda en un dataset descarregable localment. Finalment aquests datasets diaris (que contenen informació d'un dia en concret de la pàgina web d'El País) els hem unit per acabar creant el dataset definitiu on s'hi emmagatzema informació de diversos dies per poder realitzar els anàlisis pertinents per poder acabar obtenint informació valuosa que suposaria al diari, poder negociar contractes més bons amb les companyies publicitàries.
 
-Pel dataset triat hem decidit que hauria d'incloure com a mínim els següents atributs:
+El dataset final hem decidit que hauria d'incloure com a mínim els següents atributs:
 * **_Extraction Date_:** La data de la captura de les dades de la pàgina web del diari o dels arxius _.html_ emmagatzemats.
 * **_Publication Date_:** La data de publicació de l'article en el diari.
 * **_Publication Hour_:** L'hora de publicació de l'article en el diari.
