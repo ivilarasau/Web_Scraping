@@ -32,7 +32,7 @@ El dataset final hem decidit que hauria d'incloure com a mínim els següents at
 
 ## Fitxer de codi utilitzat per realitzar _Web Scraping_:
 
-* **WebScraping_ElPais.ipynb:** Script que permet extreure informació de la pàgina web.  Per fer això s'ha discretitzat el codi HTML de la pàgina web fins a les seves unitats mínimes que són els articles o les noticies. Definint un conjunt de funcions enfocades a extreure cadascún dels atributs anteriorment esmentats i posteriorment unir-los per escriure-ho en un fitxer. L'execució del codi procedeix a una descarrega automàtica del dataset creat amb un nom que inclou la data i hora d'extracció.
+* **WebScraping_ElPais.ipynb:** Script que permet extreure informació de la pàgina web.  Per fer això s'ha discretitzat el codi HTML de la pàgina web fins a les seves unitats mínimes que són els articles o les notícies. Definint un conjunt de funcions enfocades a extreure cadascún dels atributs anteriorment esmentats i posteriorment unir-los per escriure-ho en un fitxer. L'execució del codi procedeix a una descarrega automàtica del dataset creat amb un nom que inclou la data i hora d'extracció.
 * **ElPais_Analysis.ipynb:** En aquest script proposem una possible via d'anàlisi per al dataset complert (que també creem en aquest script) que podria acabar amb unes conclusions interessants pel diari en qüestió. Aquest script també aporta una petita visualització del dataset.
 
 ## Bibliografia:
